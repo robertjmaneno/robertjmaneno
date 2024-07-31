@@ -33,12 +33,13 @@ I'm a passionate software developer with a love for developing efficient, scalab
 ## 🔭 I'm currently working on
 - Enhancing my machine learning skills with advanced NLP projects
 - Developing a cross-platform mobile app using Flutter
-- Contributing to open-source C# libraries
+- Developing solutions using C# and PHP
 
 ## 🌱 I'm currently learning
-- Advanced techniques in deep learning
+- Advanced techniques in machine learning
 - Cloud-native application development
 - Restful for API development
+- 
 
 ## 👯 I'm looking to collaborate on
 - Open projects in C# , Python or PHP
