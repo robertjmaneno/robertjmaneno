@@ -39,7 +39,7 @@ I'm a passionate software developer with a love for developing efficient, scalab
 - Advanced techniques in machine learning
 - Cloud-native application development
 - Restful for API development
-- 
+  
 
 ## 👯 I'm looking to collaborate on
 - Open projects in C# , Python or PHP
