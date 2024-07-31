@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hello, I'm Robert Maneno 👋
 
-<!--
-**robertjmaneno/robertjmaneno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate software developer with a love for developing efficient, scalable solutions. My expertise spans multiple languages and frameworks, allowing me to tackle diverse challenges in software development and data science.
 
-Here are some ideas to get you started:
+## 🛠 Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- C# 🖥️
+- PHP 🐘
+- Python 🐍
+- Dart 🎯
+
+### Mobile App Development
+- Flutter 📱
+
+### Web Development
+- ASP.NET Core
+- Laravel
+
+### Data Science & Machine Learning
+- Scikit-learn
+- TensorFlow
+- Pandas
+- NumPy
+
+### Databases
+- SQL Server
+- MySQL
+- PostgreSQL
+- MongoDB
+
+## 🔭 I'm currently working on
+- Enhancing my machine learning skills with advanced NLP projects
+- Developing a cross-platform mobile app using Flutter
+- Contributing to open-source C# libraries
+
+## 🌱 I'm currently learning
+- Advanced techniques in deep learning
+- Cloud-native application development
+- Restful for API development
+
+## 👯 I'm looking to collaborate on
+- Open projects in C# , Python or PHP
+- Innovative mobile app ideas
+- Machine learning projects with real-world applications
+
+## 📫 How to reach me
+- Email: robertjmaneno@gmail.com
+
