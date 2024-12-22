@@ -10,9 +10,12 @@ I'm a passionate software Engineer from Malawi with a love for developing effici
 - PHP 🐘
 - Python 🐍
 - Dart 🎯
+- Java
+
 
 ### Mobile App Development
 - Flutter 📱
+- Java
 
 ### Web Development
 - ASP.NET Core
