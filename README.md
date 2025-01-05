@@ -1,7 +1,7 @@
 # Hello, I'm Robert Maneno 👋
 
 ## 🚀 About Me
-I'm a passionate software Engineer from Malawi with a love for developing efficient, scalable solutions. My expertise spans multiple languages and frameworks, allowing me to tackle diverse challenges in software development, data science and Artificial Intelligence.
+I'm a passionate Software Engineer from Malawi, driven by a love for building efficient and scalable solutions. My expertise spans a wide array of programming languages, frameworks, and technologies, enabling me to tackle challenges in software development, data science, and artificial intelligence.
 
 ## 🛠 Skills and Technologies
 
