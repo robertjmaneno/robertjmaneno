@@ -11,6 +11,7 @@ I'm a passionate software Engineer from Malawi with a love for developing effici
 - Python 🐍
 - Dart 🎯
 - Java
+- Go
 
 
 ### Mobile App Development
@@ -20,6 +21,7 @@ I'm a passionate software Engineer from Malawi with a love for developing effici
 ### Web Development
 - ASP.NET Core
 - Laravel
+- GIN
 
 ### Data Science & Machine Learning
 - Scikit-learn
