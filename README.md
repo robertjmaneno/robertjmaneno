@@ -47,7 +47,7 @@ I'm a passionate Software Engineer from Malawi, driven by a love for building ef
   
 
 ## 👯 I'm looking to collaborate on
-- Open projects in C# , Python or PHP
+- Open projects in C# , Go,  Python or PHP
 - Innovative mobile app ideas
 - Machine learning projects with real-world applications
 
